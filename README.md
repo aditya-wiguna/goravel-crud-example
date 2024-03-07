@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://www.goravel.dev/logo.png" width="300" alt="Logo">
+    <img src="https://www.goravel.dev/logo.png" width="300" alt="Logo">
+</div>
 
 # Goravel CRUD Example
 This is example project of goravel crud, this created with MVP pattern and planning to upgrade to use service and repository
